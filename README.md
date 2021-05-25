@@ -1,2 +1,2 @@
 # dataparty group
-Data Party Group
+Semantic Analysis of Quarantine Facebook Group Text
